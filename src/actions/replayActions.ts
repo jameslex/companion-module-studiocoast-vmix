@@ -512,7 +512,7 @@ export const vMixReplayActions = (instance: VMixInstance, sendBasicCommand: Send
 
     replayMoveEvent: {
       name: 'Replay - Move event',
-      description: 'Move an Event to a differnt Events tab',
+      description: 'Move an Event to a different Events tab',
       options: [
         {
           type: 'dropdown',
